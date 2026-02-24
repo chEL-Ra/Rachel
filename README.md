@@ -26,12 +26,6 @@ A comprehensive system for managing traffic citations and violations.
 - **Highlights**: User authentication, citation tracking, reporting system
 - **Status**: Active Development
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chEL-Ra&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chEL-Ra&layout=compact&theme=radical)
-
 ## 📚 Currently Learning
 
 - React.js advanced concepts
